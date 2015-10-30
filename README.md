@@ -5,7 +5,8 @@ Course materials for [General Assembly's Data Science course](https://generalass
 ### Logistics
 
 - Dates: 10/27/15 - 1/17/16, Tuesday - Thursday 6:30-9:30
-- Location: 225 Bush Street
+- Holidays (no class): 11/26 (Thanksgiving), 12/21 - 1/1 (winter break) 
+- Location: 225 Bush Street, Classroom 4
 - Instructor: [Francesco Mosconi](https://www.linkedin.com/in/framosconis)
 - Expert-in-Residence:  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6)
 
@@ -55,7 +56,7 @@ Francesco   | Tuesday & Thursday     | slack (quickest response) or hangouts by 
 
 ### Slack
 
-You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. Justin will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
+You've all been invited to use Slack for chat during class and the day. Please consider this the primary way to contact other students. Dylan will be in Slack during class to handle questions. All instructors will be available on Slack during office hours (listed above).
 
 ### Resources
 
