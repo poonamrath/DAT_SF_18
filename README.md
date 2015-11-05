@@ -4,11 +4,12 @@ Course materials for [General Assembly's Data Science course](https://generalass
 
 ### Logistics
 
-- Dates: 10/27/15 - 1/17/16, Tuesday - Thursday 6:30-9:30
+- Dates: 10/27/15 - 1/19/16, Tuesday - Thursday 6:30-9:30
 - Holidays (no class): 11/26 (Thanksgiving), 12/21 - 1/1 (winter break) 
 - Location: 225 Bush Street, Classroom 4
 - Instructor: [Francesco Mosconi](https://www.linkedin.com/in/framosconis)
-- Expert-in-Residence:  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6)
+- Expert-in-Residence:
+ [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
 
@@ -37,13 +38,26 @@ The weekly schedules for lecture content, lab content, and homework assignments 
 Week | Tuesday                                             | Thursday
 ---  | ---                                                 | ---
  1   | 10/27: [Introduction to Data Science](lectures/lec01.pdf), [Git setup](lectures/lec01_git_setup.pdf) | 10/29: [Python & Linear Algebra review](lectures/lec02.pdf)
- 2   | 11/03: [Data](lectures/lec03.pdf)                   | 11/05: [Introduction to Machine learning](lectures/lec04.pdf)
+ 2   | 11/03: [Cleaning and imputing Data](lectures/lec03.pdf)                   | 11/05: [Data Sources](lectures/lec04.pdf)
+ 3   | 11/10: [Introduction to Machine Learning, Regression](lectures/lec05.pdf)      | 11/12: [Cross Validation and Naïve Bayes](lectures/lec06.pdf)
+ 4   | 11/17: [Regression and Regularization](lectures/lec07.pdf) | 11/19 [Logistic Regression](lectures/lec08.pdf)
+ 5   | 11/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec09.pdf)     | 11/26: Thanksgiving -- No Class
+ 6   | 11/31: [Decision Trees](lectures/lec10.pdf) | 12/01: [Support Vector Machines](lectures/lec11.pdf)
+ 7   | 12/01: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
+ 8   | 12/08: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/10: [Dimensionality Reduction](lectures/lec15.pdf)
+ 9   | 12/15: [Recommendation systems](lectures/lec16.pdf)     | 12/17: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
+ 10  | 01/05: [Database Technologies](lectures/lec18.pdf)            | 01/07: [Map Reduce](lectures/lec19.pdf)
+ 11  | 01/12: [Data Products](lectures/lec20.pdf) | 01/11: Final Project Work session
+ 12  | 01/17: Final project presentations
+
+
+
 
 ### Homework Schedule
 
 HW       | Topics                           | Dataset | Assigned | Due   | Review Due
 ---      | ---                              | ---     | ---      | ---   | ---
-1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 7/29     |  8/3  |  8/5
+1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 10/29     |  11/3  |  11/5
 
 ### Final Project Milestones
 
@@ -52,6 +66,7 @@ HW       | Topics                           | Dataset | Assigned | Due   | Revie
 Instructor  | Times                  | Available method
 ---         | ---                    | ---
 Dylan       | |
+Otto        | Tuesday 5:30pm -6:30pm | Classroom 4 or slack
 Francesco   | Tuesday & Thursday     | slack (quickest response) or hangouts by appointment
 
 ### Slack
