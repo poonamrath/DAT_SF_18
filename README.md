@@ -1,14 +1,22 @@
 # DAT_SF_18
 
-Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (10/27/15 - 1/17/16).
+Course materials for [General Assembly's Data Science course](https://generalassemb.ly/education/data-science/san-francisco) in San Francisco (10/27/15 - 1/26/16).
 
 ### Logistics
 
+<<<<<<< HEAD
 - Dates: 10/27/15 - 1/19/16, Tuesday - Thursday 6:30-9:30
 - Holidays (no class): 11/26 (Thanksgiving), 12/21 - 1/1 (winter break) 
 - Location: 225 Bush Street, Classroom 4
 - Instructor: [Francesco Mosconi](https://www.linkedin.com/in/framosconis)
 - Expert-in-Residence:
+=======
+- Dates: 10/27/15 - 1/26/16, Tuesday - Thursday 6:30-9:30
+- Holidays (no class): 11/26 (Thanksgiving), 12/21 - 1/1 (winter break) 
+- Location: 225 Bush Street, Classroom 4
+- Instructor: [Francesco Mosconi](https://www.linkedin.com/in/framosconis)
+- Experts-in-Residence:
+>>>>>>> 8ff16338ae425e20c0fd4d15f9d39a89b94fc746
  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
@@ -22,9 +30,10 @@ Foundational course in data science, including machine learning theory, case stu
 - [Git & Github](https://github.com/)
 
 ### Completion Requirements
-In order to receive a General Assembly Certificate in Data Science, upon completion of the course, students must:
+In order to receive a General Assembly Letter of Completion for Data Science, upon completion of the course, students must:
 
 - Complete and submit 80% of all course assignments (homework, homework reviews, labs, quizzes). Students who miss more than 20% of assignments will not be eligible for the course certificate.
+- Attend at least 80% of classes (miss no more than 4 classes)
 - Complete and subimt the course midterm test.
 - Complete and submit the course final project, completing all functional and technical requirements on the project rubric, including delivering a presentation.
 
@@ -42,6 +51,7 @@ Week | Tuesday                                             | Thursday
  3   | 11/10: [Introduction to Machine Learning, Regression](lectures/lec05.pdf)      | 11/12: [Cross Validation and Naïve Bayes](lectures/lec06.pdf)
  4   | 11/17: [Regression and Regularization](lectures/lec07.pdf) | 11/19 [Logistic Regression](lectures/lec08.pdf)
  5   | 11/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec09.pdf)     | 11/26: Thanksgiving -- No Class
+<<<<<<< HEAD
  6   | 11/31: [Decision Trees](lectures/lec10.pdf) | 12/01: [Support Vector Machines](lectures/lec11.pdf)
  7   | 12/01: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/08: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/10: [Dimensionality Reduction](lectures/lec15.pdf)
@@ -49,6 +59,15 @@ Week | Tuesday                                             | Thursday
  10  | 01/05: [Database Technologies](lectures/lec18.pdf)            | 01/07: [Map Reduce](lectures/lec19.pdf)
  11  | 01/12: [Data Products](lectures/lec20.pdf) | 01/11: Final Project Work session
  12  | 01/17: Final project presentations
+=======
+ 6   | 12/01: [Decision Trees](lectures/lec10.pdf) | 12/03: [Support Vector Machines](lectures/lec11.pdf)
+ 7   | 12/08: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/10: [Review of Supervised Learning](lectures/lec13.pdf)
+ 8   | 12/15: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/17: [Dimensionality Reduction](lectures/lec15.pdf)
+ 9   | 01/05: [Recommendation systems](lectures/lec16.pdf)     | 01/07: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
+ 10  | 01/12: [Database Technologies](lectures/lec18.pdf)            | 01/14: [Map Reduce](lectures/lec19.pdf)
+ 11  | 01/19: [Data Products](lectures/lec20.pdf) | 01/21: Final Project Work session
+ 12  | 01/26: Final project presentations
+>>>>>>> 8ff16338ae425e20c0fd4d15f9d39a89b94fc746
 
 
 
