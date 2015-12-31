@@ -20,7 +20,6 @@ Course materials for [General Assembly's Data Science course](https://generalass
  [Dylan Hercher](https://www.linkedin.com/pub/dylan-hercher/30/478/1b6), [Otto Stegmaier](https://www.linkedin.com/pub/otto-stegmaier/a3/a3/594)
 
 
-
 ### Course Description
 Foundational course in data science, including machine learning theory, case studies and real-world examples, introduction to various modeling techniques, and other tools to make predictions and decisions about data. Students will gain practical computational experience by running machine learning algorithms and learning how to choose the best and most representative data models to make predictions. Students will be using [Python](https://www.python.org/) throughout this course.
 
@@ -52,6 +51,7 @@ Week | Tuesday                                             | Thursday
  4   | 11/17: [Regression and Regularization](lectures/lec07.pdf) | 11/19 [Logistic Regression](lectures/lec08.pdf)
  5   | 11/24: [Imbalanced Classes and Evaluation Metrics](lectures/lec09.pdf)     | 11/26: Thanksgiving -- No Class
 <<<<<<< HEAD
+<<<<<<< HEAD
  6   | 11/31: [Decision Trees](lectures/lec10.pdf) | 12/01: [Support Vector Machines](lectures/lec11.pdf)
  7   | 12/01: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/03: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/08: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/10: [Dimensionality Reduction](lectures/lec15.pdf)
@@ -61,24 +61,27 @@ Week | Tuesday                                             | Thursday
  12  | 01/17: Final project presentations
 =======
  6   | 12/01: [Decision Trees](lectures/lec10.pdf) | 12/03: [Support Vector Machines](lectures/lec11.pdf)
+=======
+ 6   | 12/01: [Support Vector Machines](lectures/lec10.pdf) | 12/03: [Decision Trees](lectures/lec11.pdf)
+>>>>>>> e06073f4a4f198016939dd1599df8275e7d40e6e
  7   | 12/08: [Ensemble Techniques](lectures/lec12.pdf)                           | 12/10: [Review of Supervised Learning](lectures/lec13.pdf)
  8   | 12/15: [K-Means Clustering and Unsupervised learning](lectures/lec14.pdf) | 12/17: [Dimensionality Reduction](lectures/lec15.pdf)
  9   | 01/05: [Recommendation systems](lectures/lec16.pdf)     | 01/07: [Natural Language Processing and Text Mining](lectures/lec17.pdf)
  10  | 01/12: [Database Technologies](lectures/lec18.pdf)            | 01/14: [Map Reduce](lectures/lec19.pdf)
- 11  | 01/19: [Data Products](lectures/lec20.pdf) | 01/21: Final Project Work session
+ 11  | 01/19: [Data Products](lectures/lec20.pdf) | 01/21: Final project presentations
  12  | 01/26: Final project presentations
 >>>>>>> 8ff16338ae425e20c0fd4d15f9d39a89b94fc746
 
 
-
-
-### Homework Schedule
-
-HW       | Topics                           | Dataset | Assigned | Due   | Review Due
----      | ---                              | ---     | ---      | ---   | ---
-1        | [Github setup](homework/HW1_assignment.pdf)                    |         | 10/29     |  11/3  |  11/5
-
 ### Final Project Milestones
+
+Final Project Milestones
+
+FP milestone| Deliverable            | Due
+---         | ---                    | ---
+1   | Elevator Pitch & Data Sources  | 12/10
+2   | Draft Analysis                 | 01/05
+3   | Final Project Due              | 01/21
 
 ### Office Hours
 
