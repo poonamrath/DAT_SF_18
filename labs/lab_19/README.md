@@ -53,29 +53,29 @@ There are several ways to connect to a Linux instance. We will connect using you
 
 To connect to your Linux instance using a web browser
 
-You must have Java installed and enabled in the browser. If you don't have Java already, you can contact your system administrator to get it installed, or follow the steps outlined in the following pages: Install Java and Enable Java in your web browser.
+* You must have Java installed and enabled in the browser. If you don't have Java already, you can contact your system administrator to get it installed, or follow the steps outlined in the following pages: Install Java and Enable Java in your web browser.
 
-From the Amazon EC2 console, click Instances in the navigation pane.
+* From the Amazon EC2 console, click Instances in the navigation pane.
 
-Select the instance, and then choose Connect.
+* Select the instance, and then choose Connect.
 
-Choose A Java SSH client directly from my browser (Java required).
+* Choose A Java SSH client directly from my browser (Java required).
 
-Amazon EC2 automatically detects the public DNS name of your instance and populates Public DNS for you. It also detects the key pair that you specified when you launched the instance. Complete the following, and then click Launch SSH Client.
+* Amazon EC2 automatically detects the public DNS name of your instance and populates Public DNS for you. It also detects the key pair that you specified when you launched the instance. Complete the following, and then click Launch SSH Client.
 
-In User name, enter ec2-user.
+* In User name, enter ec2-user.
 
-In Private key path, enter the fully qualified path to your private key (.pem) file, including the key pair name.
+* In Private key path, enter the fully qualified path to your private key (.pem) file, including the key pair name.
 
-(Optional) Choose Store in browser cache to store the location of the private key in your browser cache. This enables Amazon EC2 to detect the location of the private key in subsequent browser sessions, until you clear your browser's cache.
+  * (Optional) Choose Store in browser cache to store the location of the private key in your browser cache. This enables Amazon EC2 to detect the location of the private key in subsequent browser sessions, until you clear your browser's cache.
 
-If necessary, choose Yes to trust the certificate, and choose Run to run the MindTerm client.
+* If necessary, choose Yes to trust the certificate, and choose Run to run the MindTerm client.
 
-If this is your first time running MindTerm, a series of dialog boxes asks you to accept the license agreement, confirm setup for your home directory, and confirm setup of the known hosts directory. Confirm these settings.
+* If this is your first time running MindTerm, a series of dialog boxes asks you to accept the license agreement, confirm setup for your home directory, and confirm setup of the known hosts directory. Confirm these settings.
 
-A dialog prompts you to add the host to your set of known hosts. If you do not want to store the host key information on your local computer, choose No.
+* A dialog prompts you to add the host to your set of known hosts. If you do not want to store the host key information on your local computer, choose No.
 
-A window opens and you are connected to your instance.
+* A window opens and you are connected to your instance.
 
 Note
 If you chose No in the previous step, you'll see the following message, which is expected:
