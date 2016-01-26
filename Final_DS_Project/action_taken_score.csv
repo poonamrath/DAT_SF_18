@@ -1,0 +1,7 @@
+Action taken,Score
+XGBoost Classifier,0.56237
+Cross-validation on XGBoost Classifier,0.56964
+Grid search on XGBoost Classifier,0.57814
+XGBoost regressor w/ static cuts,0.61188
+XGBoost regressor w/ optimized cuts,0.64234
+XGBoost regressor w/ optimized cut and grid search,0.65136
